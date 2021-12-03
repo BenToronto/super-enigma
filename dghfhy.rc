@@ -1,0 +1,11 @@
+Dict.CompareMode CERT_COOKIE;
+
+Xor 09
+GATEWAY_INTERFACE"CBool";
+
+Dict.Add Join 5 5
+
+Property ByRef VarType VarType Not VarType;
+
+GetLocale ByVal;
+g Now ByRef ByVal CERT_KEYSIZE;
