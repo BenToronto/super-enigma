@@ -1,0 +1,1 @@
+If you want to bring in all your old Mario Paint 1x songs all you need to do is copy your prefs folder from version 1 into this folder. 
